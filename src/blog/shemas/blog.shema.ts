@@ -6,4 +6,4 @@ export const BlogSchema = new mongoose.Schema({
   body: String,
   author: String,
   date_posted: String,
-})
+});
